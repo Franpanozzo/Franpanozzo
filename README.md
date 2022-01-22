@@ -33,5 +33,4 @@
 
   <p align="center">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Franpanozzo&show_icons=true&bg_color=0d1117&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franpanozzo&layout=compact&langs_count=8&theme=github_dark"/>
   </p>
