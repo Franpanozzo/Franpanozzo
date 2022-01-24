@@ -31,3 +31,4 @@
  <br /><br />
 </div>
 
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=Franpanozzo&show_icons=true&bg_color=0d1117&theme=github_dark&count_private=true" />
