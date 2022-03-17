@@ -2,7 +2,7 @@
 
 - 📚 I'm a student of Systems Engineering at [UTN.FRBA](http://www.sistemas.frba.utn.edu.ar/).
 - 👨‍💻 Seeking for my first job as a software developer, looking to grow in the backend area as I'm passionate about it.
-- 🌱 Currently learning Javascript and soon Node.js as I'm looking forward to getting more into web development.
+- 🌱 Currently learning Node.js as I'm looking forward to getting more into web development.
 - 📫 How to reach me:    
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscopanozzo/)
@@ -14,6 +14,8 @@
  <b>Technologies and tools: </b> 
  <br />
  <br />
+ 
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
