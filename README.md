@@ -1,7 +1,7 @@
 ### Hi! 👋 I'm Francisco Panozzo
 
 - 📚 I'm a student of Systems Engineering at [UTN.FRBA](http://www.sistemas.frba.utn.edu.ar/).
-- 👨‍💻 Seeking for my first job as a software developer, looking to grow in the backend area as I'm passionate about it.
+- 👨‍💻 Working as a Trainee Developer Java/Web at [Arquímeda](https://www.arquimeda.com/).
 - 🌱 Currently learning Node.js as I'm looking forward to getting more into web development.
 - 📫 How to reach me:    
 
