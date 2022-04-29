@@ -2,7 +2,7 @@
 
 - 📚 I'm a student of Systems Engineering at [UTN.FRBA](http://www.sistemas.frba.utn.edu.ar/).
 - 👨‍💻 Working as a Software Developer at [Arquímeda](https://www.arquimeda.com/).
-- 🌱 Currently learning Typescript and Serverless Computing, and in the future Kubernetes, as I'm looking forward to getting more into Cloud Computing!
+- 🌱 Currently learning Typescript and Serverless Computing.
 - 📫 How to reach me:    
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscopanozzo/)
