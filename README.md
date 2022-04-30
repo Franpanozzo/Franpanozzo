@@ -1,8 +1,10 @@
 ### Hi! 👋 I'm Francisco Panozzo
 
+- 🌍  I'm based in Buenos Aires, Argentina
 - 📚 I'm a student of Systems Engineering at [UTN.FRBA](http://www.sistemas.frba.utn.edu.ar/).
-- 👨‍💻 Working as a Software Developer at [Arquímeda](https://www.arquimeda.com/).
+- 👨‍💻 Working as a Back End Developer at [Arquímeda](https://www.arquimeda.com/).
 - 🌱 Currently learning Typescript and Serverless Computing.
+- :basketball: I love the game of basketball!
 - 📫 How to reach me:    
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscopanozzo/)
@@ -43,4 +45,12 @@
  <br /><br />
 </div>
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=Franpanozzo&show_icons=true&bg_color=0d1117&theme=github_dark&count_private=true" />
+<a href="http://www.github.com/Franpanozzo"><img src="https://github-readme-stats.vercel.app/api?username=Franpanozzo&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="Franpanozzo's GitHub stats" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Franpanozzo/nba-api-rest" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Franpanozzo&repo=nba-api-rest&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Franpanozzo/proyecto-patitas-dds" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Franpanozzo&repo=proyecto-patitas-dds&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
+
+<br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Franpanozzo/tp-2021-1c-holy-C" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Franpanozzo&repo=tp-2021-1c-holy-C&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Franpanozzo/rubyFramework-scalaCalabozo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Franpanozzo&repo=rubyFramework-scalaCalabozo&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
