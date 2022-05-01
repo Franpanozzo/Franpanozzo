@@ -1,6 +1,3 @@
-<div align="center"><img width="350px" height="200px" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" /></div>
-
-
 ## Hi! 👋 I'm Fran
 
 - 🌍  I'm based in Buenos Aires, Argentina
@@ -15,7 +12,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco.panozzosf@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://gitstats.me/Franpanozzo)
 
-<br />
+<div align="center"><img width="350px" height="200px" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" /></div>
+
 <div>
  <b>Technologies and tools: </b> 
  <br />
