@@ -1,4 +1,4 @@
-<div align="center"><img width="250px" height="200px" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" /></div>
+<div align="center"><img width="350px" height="200px" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" /></div>
 
 
 ### Hi! 👋 I'm Fran
