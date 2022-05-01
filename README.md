@@ -4,7 +4,7 @@
 - 📚 I'm a student of Systems Engineering at [UTN.FRBA](http://www.sistemas.frba.utn.edu.ar/).
 - 👨‍💻 Working as a Back End Developer at [Arquímeda](https://www.arquimeda.com/).
 - 🧠 Currently learning Typescript and Serverless Computing
-- 🌱 Looking to grow in Back End development as I'm passionate about it, and I'm looking forward to know more about DevOps and Cloud Computing.
+- 🌱 Passionate about Back End development, looking forward to know more about DevOps and Cloud Computing.
 - :basketball: I also have a passion for the game of basketball!
 - 📫 How to reach me:    
 
