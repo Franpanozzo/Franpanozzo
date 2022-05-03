@@ -14,8 +14,7 @@
 <div align="center"><img width="350px" height="200px" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" /></div>
 
 <div>
- <b>Technologies and tools: </b> 
- <br />
+ <h3>:hammer_and_wrench: Technologies and tools: </h3> 
  <br />
  
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -47,9 +46,11 @@
  <br /><br />
 </div>
 
+<h3> :chart_with_upwards_trend: Stats <h3/>
+
 <a href="http://www.github.com/Franpanozzo"><img src="https://github-readme-stats.vercel.app/api?username=Franpanozzo&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="Franpanozzo's GitHub stats" /></a>
 
-<b>Top Repositories</b>
+<h3>Projects</h3>
 
 <div width="100%" align="center"><a href="https://github.com/Franpanozzo/nba-api-rest" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Franpanozzo&repo=nba-api-rest&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Franpanozzo/proyecto-patitas-dds" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Franpanozzo&repo=proyecto-patitas-dds&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
 
