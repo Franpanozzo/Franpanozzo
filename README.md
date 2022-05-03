@@ -3,7 +3,7 @@
 - 🌍  I'm based in Buenos Aires, Argentina
 - 📚 I'm a student of Systems Engineering at [UTN.FRBA](http://www.sistemas.frba.utn.edu.ar/).
 - 👨‍💻 Working as a Back End Developer at [Arquímeda](https://www.arquimeda.com/).
-- 🧠 Currently learning Typescript and Serverless Computing
+- 🧠 Currently learning Go.
 - 🌱 Passionate about Back End development, looking forward to know more about DevOps and Cloud Computing.
 - :basketball: I also have a passion for the game of basketball!
 - 📫 How to reach me:    
