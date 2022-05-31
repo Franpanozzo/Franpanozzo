@@ -6,6 +6,7 @@
 - 🧠 Currently learning Go.
 - 🌱 Passionate about Back End development, looking forward to know more about DevOps and Cloud Computing.
 - :basketball: I also have a passion for the game of basketball!
+- :heart: I love programming and learning every day to become the best developer I can be :)
 - 📫 How to reach me:    
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscopanozzo/)
