@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscopanozzo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisco.panozzosf@gmail.com)
 
-<div align="center"><img width="350px" height="200px" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" /></div>
+<div align="center"><img width="250px" height="300px" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" /></div>
 
 <div>
  <h3>:hammer_and_wrench: Technologies and tools: </h3> 
