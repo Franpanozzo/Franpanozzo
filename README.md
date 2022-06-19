@@ -3,7 +3,7 @@
 - 🌍  I'm based in Buenos Aires, Argentina
 - 👨‍💻 Working as a Software Engineer Backend at [Open Data Security](https://opendatasecurity.io/).
 - 🧠 Currently learning Laravel.
-- 🌱 Passionate about Back End development, looking forward to know more about Blockchain.
+- 🌱 Passionate about Back End development, looking forward to know more about DevOps and Cloud Computing.
 - :basketball: I also have a passion for the game of basketball!
 - :heart: I love programming and learning every day to become the best developer I can be :)
 - 📫 How to reach me:    
