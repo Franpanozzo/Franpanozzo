@@ -1,7 +1,7 @@
 ## Hi! 👋 I'm Fran
 
 - 🌍  I'm based in Buenos Aires, Argentina
-- 👨‍💻 Working as a Software Backend Engineer at [Open Data Security](https://opendatasecurity.io/).
+- 👨‍💻 Working as a Software Engineer Backend at [Open Data Security](https://opendatasecurity.io/).
 - 🧠 Currently learning Laravel.
 - 🌱 Passionate about Back End development, looking forward to know more about Blockchain.
 - :basketball: I also have a passion for the game of basketball!
