@@ -2,6 +2,7 @@
 
 - 🌍  I'm based in Buenos Aires, Argentina
 - 👨‍💻 Working as a Software Engineer Backend at [Open Data Security](https://opendatasecurity.io/).
+- 📚 I'm a student of Systems Engineering at UTN.FRBA.
 - 🧠 Currently learning Laravel.
 - 🌱 Passionate about Back End development, looking forward to know more about DevOps and Cloud Computing.
 - :basketball: I also have a passion for the game of basketball!
