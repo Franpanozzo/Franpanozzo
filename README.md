@@ -1,12 +1,12 @@
-## Hi! 👋 I'm Fran
+## Hi! 👋 I'm Guille
 
 - 🌍  I'm based in Buenos Aires, Argentina
-- 👨‍💻 Working as a Back End Software Engineer at [Open Data Security](https://opendatasecurity.io/).
+- 👨‍💻 Working as a Back-end Tech Leader at [mydigitalnomads](https://mydigitalnomads.co.uk/).
 - 📚 I'm a student of Computer Engineering at [UTN.FRBA](https://www.frba.utn.edu.ar/).
-- 🧠 Currently learning Laravel.
+- 🧠 Currently learning Laravel. (Aca nose poner lo que estas aprendiendo o lo que quieras)
 - 🌱 Passionate about Back End development, looking forward to know more about DevOps and Cloud Computing.
-- :basketball: I also have a passion for the game of basketball!
-- :heart: I love programming and learning every day to become the best developer I can be :)
+- :tennis: I also have a passion for Tenis as I dedicated lots of years to it! (o si queres l cambiamos como quieras
+- :heart: I love programming and learning every day to become the best developer I can be :) (aca si queres dejamos lo mismo o como quieras)
 - 📫 How to reach me:    
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscopanozzo/)
