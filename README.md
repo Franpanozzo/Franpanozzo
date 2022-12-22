@@ -1,9 +1,9 @@
 ## Hi! 👋 I'm Fran
 
 - 🌍  I'm based in Buenos Aires, Argentina
-- 👨‍💻 Working as a Back End Software Engineer at [Open Data Security](https://opendatasecurity.io/).
+- 👨‍💻 Working as a Back End Software Engineer at [mydigitalnomads](https://mydigitalnomads.co.uk/).
 - 📚 I'm a student of Computer Engineering at [UTN.FRBA](https://www.frba.utn.edu.ar/).
-- 🧠 Currently learning Laravel.
+- 🧠 Currently learning Kubernetes.
 - 🌱 Passionate about Back End development, looking forward to know more about DevOps and Cloud Computing.
 - :basketball: I also have a passion for the game of basketball!
 - :heart: I love programming and learning every day to become the best developer I can be :)
