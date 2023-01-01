@@ -1,7 +1,7 @@
 ## Hi! 👋 I'm Fran
 
 - 🌍  I'm based in Buenos Aires, Argentina
-- 👨‍💻 Working as a Back End Software Engineer at [mydigitalnomads](https://mydigitalnomads.co.uk/).
+- 👨‍💻 Working as a Software Backend Engineer at [mydigitalnomads](https://mydigitalnomads.co.uk/).
 - 📚 I'm a student of Computer Engineering at [UTN.FRBA](https://www.frba.utn.edu.ar/).
 - 🧠 Currently learning Kubernetes.
 - 🌱 Passionate about Back End development, looking forward to know more about DevOps and Cloud Computing.
