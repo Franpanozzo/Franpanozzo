@@ -3,8 +3,8 @@
 - 🌍  I'm based in Buenos Aires, Argentina
 - 👨‍💻 Working as a Backend Software Engineer at [mydigitalnomads](https://mydigitalnomads.co.uk/).
 - 📚 I'm a student of Computer Engineering at [UTN.FRBA](https://www.frba.utn.edu.ar/).
-- 🧠 Currently learning Kubernetes.
-- 🌱 Passionate about Back End development, looking forward to know more about DevOps and Cloud Computing.
+- 🧠 Currently learning Clojure.
+- 🌱 Passionate about Back End development, especially the functional paradigm.
 - :basketball: I also have a passion for the game of basketball!
 - :heart: I love programming and learning every day to become the best developer I can be :)
 - 📫 How to reach me:    
@@ -35,13 +35,14 @@
  <br/>
  <h3>:rocket: Other cool technologies and tools I've work with: </h3> 
  <br/>
+ <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
+ <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
  <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
- <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
  <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
