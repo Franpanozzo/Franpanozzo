@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Fran
 
-- 🌍  I'm based in Buenos Aires, Argentina
+- 🌍  I'm based in Buenos Aires, Argentina.
 - 👨‍💻 Working as a Backend Software Engineer at [mydigitalnomads](https://mydigitalnomads.co.uk/).
 - 📚 I'm a student of Computer Engineering at [UTN.FRBA](https://www.frba.utn.edu.ar/).
 - 🧠 Currently learning Clojure.
