@@ -3,7 +3,7 @@
 - 🌍  I'm based in Buenos Aires, Argentina.
 - 👨‍💻 Working as a Backend Software Engineer at [mydigitalnomads](https://mydigitalnomads.com/).
 - 📚 I'm a student of Information Systems Engineering at [UTN.FRBA](https://www.frba.utn.edu.ar/).
-- 🧠 Currently learning DevOps.
+- 🧠 Currently learning Vue.
 - 🌱 Passionate about Back End development, especially the functional paradigm.
 - :basketball: I also have a passion for the game of basketball!
 - :heart: I love programming and learning every day to become the best developer I can be :)
