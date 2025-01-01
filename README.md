@@ -3,7 +3,7 @@
 - 🌍  I'm based in Buenos Aires, Argentina.
 - 👨‍💻 Working as a Software Engineer at [mydigitalnomads](https://mydigitalnomads.com/).
 - 📚 I'm a student of Information Systems Engineering at [UTN.FRBA](https://www.frba.utn.edu.ar/).
-- 🧠 Currently learning Vue.
+- 🧠 Currently learning and building with Inertia.
 - 🌱 Passionate about the VILT stack.
 - :basketball: I also have a passion for the game of basketball!
 - :heart: I love programming and learning every day to become the best developer I can be :)
