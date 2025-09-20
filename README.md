@@ -1,7 +1,7 @@
 ## Hi! 👋 I'm Fran
 
 - 🌍  I'm based in Buenos Aires, Argentina.
-- 👨‍💻 Working as a Software Engineer at [mydigitalnomads](https://mydigitalnomads.com/).
+- 👨‍💻 Working as a Software Engineer at [Campaign Nucleus](https://www.campaignnucleus.com/).
 - 📚 I'm a student of Information Systems Engineering at [UTN.FRBA](https://www.frba.utn.edu.ar/).
 - 🧠 Currently learning and building with shadcn.
 - 🌱 Passionate about the VILT stack.
