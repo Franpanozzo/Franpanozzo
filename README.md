@@ -2,7 +2,7 @@
 
 - 🌍  I'm based in Buenos Aires, Argentina.
 - 👨‍💻 Working as a Software Engineer at [Campaign Nucleus](https://www.campaignnucleus.com/).
-- 📚 Information Systems Engineer from [UTN.FRBA](https://www.frba.utn.edu.ar/).
+- 📚 Information Systems Engineer, [UTN.FRBA](https://www.frba.utn.edu.ar/).
 - 🧠 Currently learning and building with shadcn.
 - 🌱 Passionate about the VILT stack.
 - :basketball: I also have a passion for the game of basketball!
