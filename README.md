@@ -3,10 +3,9 @@
 - 🌍  I'm based in Buenos Aires, Argentina.
 - 👨‍💻 Working as a Software Engineer at [Campaign Nucleus](https://www.campaignnucleus.com/).
 - 📚 Information Systems Engineer from [UTN.FRBA](https://www.frba.utn.edu.ar/).
-- 🧠 Currently learning and building with shadcn.
+- 🧠 Currently learning Terraform.
 - 🌱 Passionate about the VILT stack.
 - :basketball: I also have a passion for the game of basketball!
-- :heart: I love programming and learning every day to become the best developer I can be :)
 - 📫 How to reach me:    
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/franciscopanozzo/)
