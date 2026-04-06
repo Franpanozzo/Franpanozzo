@@ -45,18 +45,3 @@
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </div>
-
-
- 
- 
-  
- <br /><br />
-</div>
-
-<h3>Projects</h3>
-
-<div width="100%" align="center"><a href="https://github.com/Franpanozzo/nba-api-rest" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Franpanozzo&repo=nba-api-rest&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Franpanozzo/proyecto-patitas-dds" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Franpanozzo&repo=proyecto-patitas-dds&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
-
-<br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Franpanozzo/tp-2021-1c-holy-C" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Franpanozzo&repo=tp-2021-1c-holy-C&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Franpanozzo/rubyFramework-scalaCalabozo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Franpanozzo&repo=rubyFramework-scalaCalabozo&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
