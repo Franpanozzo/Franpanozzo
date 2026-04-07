@@ -3,7 +3,6 @@
 - 🌍  I'm based in Buenos Aires, Argentina.
 - 👨‍💻 Working as a Software Engineer at [Campaign Nucleus](https://www.campaignnucleus.com/).
 - 📚 Information Systems Engineer from [UTN.FRBA](https://www.frba.utn.edu.ar/).
-- 🧠 Currently learning Terraform.
 - 🌱 Passionate about the VILT stack.
 - :basketball: I also have a passion for the game of basketball!
 - 📫 How to reach me:    
@@ -36,6 +35,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
