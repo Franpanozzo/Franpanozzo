@@ -1,10 +1,11 @@
 ## Hi! 👋 I'm Fran
 
-- 🌍  I'm based in Buenos Aires, Argentina.
-- 👨‍💻 Working as a Software Engineer at [Campaign Nucleus](https://www.campaignnucleus.com/).
+- 🌍 Based in Buenos Aires, Argentina.
+- 👨‍💻 Software Engineer at [Campaign Nucleus](https://www.campaignnucleus.com/).
 - 📚 Information Systems Engineer from [UTN.FRBA](https://www.frba.utn.edu.ar/).
-- 🌱 Passionate about Laravel & the ecosystem around it.
-- :basketball: I also have a passion for the game of basketball!
+- 🌱 Laravel enthusiast.
+- :basketball: Basketball fan
+- ✝️ Catholic.
 - 📫 How to reach me:    
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/franciscopanozzo/)
