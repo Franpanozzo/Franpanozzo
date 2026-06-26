@@ -4,7 +4,7 @@
 - 👨‍💻 Software Engineer at [Campaign Nucleus](https://www.campaignnucleus.com/).
 - 📚 Information Systems Engineer from [UTN.FRBA](https://www.frba.utn.edu.ar/).
 - 🌱 Laravel enthusiast.
-- :basketball: Basketball fan
+- :basketball: Basketball fan.
 - ✝️ Catholic.
 - 📫 How to reach me:    
 
